@@ -17,7 +17,6 @@
 
 int main(void)
 {
-    /* Replace with your application code */
 	
 	volatile uint8_t lightlevel = 0;
 	volatile uint8_t r;
