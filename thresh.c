@@ -9,11 +9,11 @@
  * to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
  */ 
 
+#define F_CPU 1000000
+
 #include <avr/io.h>
 #include <util/delay.h>
 #include <stdlib.h>
-
-#define F_CPU 1000000
 
 int main(void)
 {
